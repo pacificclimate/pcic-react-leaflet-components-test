@@ -1,0 +1,6 @@
+{
+  "name": "DemoBCBaseMap",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DemoBCBaseMap.js"
+}
