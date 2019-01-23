@@ -6,6 +6,7 @@
     "bootstrap": "^3.3.7",
     "leaflet": "^1.4.0",
     "lodash": "^4.17.11",
+    "pcic-react-leaflet-components": "git+https://git@github.com/pacificclimate/pcic-react-leaflet-components.git",
     "react": "^16.7.0",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.7.0",
